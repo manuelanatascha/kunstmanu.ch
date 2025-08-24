@@ -3,10 +3,30 @@
     <title>KUNSTMANU</title>
     <link href="https://kunstmanu.ch/feed.xml" rel="self" />
     <link href="https://kunstmanu.ch" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2025-08-24T21:38:16+02:00</updated>
     <author>
         <name>manuela</name>
     </author>
     <id>https://kunstmanu.ch</id>
 
+    <entry>
+        <title>Frau mit Blume und Ente. Selbstbildnis.</title>
+        <author>
+            <name>manuela</name>
+        </author>
+        <link href="https://kunstmanu.ch/frau-mit-blume-und-ente-selbstbildnis.html"/>
+        <id>https://kunstmanu.ch/frau-mit-blume-und-ente-selbstbildnis.html</id>
+
+        <updated>2025-08-24T21:38:16+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://kunstmanu.ch/media/posts/1/Unbenanntes_Projekt.jpg" height="1640" width="1640" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://kunstmanu.ch/media/posts/1/responsive/Unbenanntes_Projekt-xs.jpg 640w ,https://kunstmanu.ch/media/posts/1/responsive/Unbenanntes_Projekt-sm.jpg 768w ,https://kunstmanu.ch/media/posts/1/responsive/Unbenanntes_Projekt-md.jpg 1024w ,https://kunstmanu.ch/media/posts/1/responsive/Unbenanntes_Projekt-lg.jpg 1366w ,https://kunstmanu.ch/media/posts/1/responsive/Unbenanntes_Projekt-xl.jpg 1600w ,https://kunstmanu.ch/media/posts/1/responsive/Unbenanntes_Projekt-2xl.jpg 1920w">
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
 </feed>
