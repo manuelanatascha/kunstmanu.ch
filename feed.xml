@@ -3,12 +3,96 @@
     <title>KUNSTMANU</title>
     <link href="https://kunstmanu.ch/feed.xml" rel="self" />
     <link href="https://kunstmanu.ch" />
-    <updated>2025-08-25T07:25:02+02:00</updated>
+    <updated>2025-08-25T18:40:01+02:00</updated>
     <author>
         <name>manuela</name>
     </author>
     <id>https://kunstmanu.ch</id>
 
+    <entry>
+        <title>Schattenspiel</title>
+        <author>
+            <name>manuela</name>
+        </author>
+        <link href="https://kunstmanu.ch/schattenspiel.html"/>
+        <id>https://kunstmanu.ch/schattenspiel.html</id>
+
+        <updated>2025-08-25T18:39:37+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://kunstmanu.ch/media/posts/12/IMG_3616.HEIC" height="[object Object]" width="[object Object]" alt="" >
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Ohne Distanz</title>
+        <author>
+            <name>manuela</name>
+        </author>
+        <link href="https://kunstmanu.ch/ohne-distanz.html"/>
+        <id>https://kunstmanu.ch/ohne-distanz.html</id>
+
+        <updated>2025-08-25T18:38:02+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://kunstmanu.ch/media/posts/11/IMG_3639.HEIC" height="[object Object]" width="[object Object]" alt="" >
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Ruhezeiten</title>
+        <author>
+            <name>manuela</name>
+        </author>
+        <link href="https://kunstmanu.ch/ruhezeiten.html"/>
+        <id>https://kunstmanu.ch/ruhezeiten.html</id>
+
+        <updated>2025-08-25T18:37:14+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://kunstmanu.ch/media/posts/10/IMG_3610.HEIC" height="[object Object]" width="[object Object]" alt="" >
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Kanten</title>
+        <author>
+            <name>manuela</name>
+        </author>
+        <link href="https://kunstmanu.ch/kanten.html"/>
+        <id>https://kunstmanu.ch/kanten.html</id>
+
+        <updated>2025-08-25T18:35:07+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://kunstmanu.ch/media/posts/9/IMG_3634-2.HEIC" height="[object Object]" width="[object Object]" alt="" >
+      
+    </figure>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Betrachtungen</title>
         <author>

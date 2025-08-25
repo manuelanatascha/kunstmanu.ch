@@ -10,6 +10,58 @@
     },
     "items": [
         {
+            "id": "https://kunstmanu.ch/schattenspiel.html",
+            "url": "https://kunstmanu.ch/schattenspiel.html",
+            "title": "Schattenspiel",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://kunstmanu.ch/media/posts/12/IMG_3616.HEIC\" height=\"[object Object]\" width=\"[object Object]\" alt=\"\" >\n      \n    </figure>",
+            "author": {
+                "name": "manuela"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-08-25T18:39:37+02:00",
+            "date_modified": "2025-08-25T18:40:01+02:00"
+        },
+        {
+            "id": "https://kunstmanu.ch/ohne-distanz.html",
+            "url": "https://kunstmanu.ch/ohne-distanz.html",
+            "title": "Ohne Distanz",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://kunstmanu.ch/media/posts/11/IMG_3639.HEIC\" height=\"[object Object]\" width=\"[object Object]\" alt=\"\" >\n      \n    </figure>",
+            "author": {
+                "name": "manuela"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-08-25T18:38:02+02:00",
+            "date_modified": "2025-08-25T18:38:29+02:00"
+        },
+        {
+            "id": "https://kunstmanu.ch/ruhezeiten.html",
+            "url": "https://kunstmanu.ch/ruhezeiten.html",
+            "title": "Ruhezeiten",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://kunstmanu.ch/media/posts/10/IMG_3610.HEIC\" height=\"[object Object]\" width=\"[object Object]\" alt=\"\" >\n      \n    </figure>",
+            "author": {
+                "name": "manuela"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-08-25T18:37:14+02:00",
+            "date_modified": "2025-08-25T18:38:44+02:00"
+        },
+        {
+            "id": "https://kunstmanu.ch/kanten.html",
+            "url": "https://kunstmanu.ch/kanten.html",
+            "title": "Kanten",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://kunstmanu.ch/media/posts/9/IMG_3634-2.HEIC\" height=\"[object Object]\" width=\"[object Object]\" alt=\"\" >\n      \n    </figure>\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "manuela"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-08-25T18:35:07+02:00",
+            "date_modified": "2025-08-25T18:38:51+02:00"
+        },
+        {
             "id": "https://kunstmanu.ch/betrachtungen-2.html",
             "url": "https://kunstmanu.ch/betrachtungen-2.html",
             "title": "Betrachtungen",
