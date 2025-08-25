@@ -10,56 +10,74 @@
     },
     "items": [
         {
+            "id": "https://kunstmanu.ch/eine-fluessigkeit.html",
+            "url": "https://kunstmanu.ch/eine-fluessigkeit.html",
+            "title": "Eine Flüssigkeit",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://kunstmanu.ch/media/posts/14/ED41A939-E03C-4797-A2E7-8BEC43BCEFE2_1_102_o.jpeg\" height=\"2048\" width=\"1536\" alt=\"\"  sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://kunstmanu.ch/media/posts/14/responsive/ED41A939-E03C-4797-A2E7-8BEC43BCEFE2_1_102_o-xs.jpeg 640w ,https://kunstmanu.ch/media/posts/14/responsive/ED41A939-E03C-4797-A2E7-8BEC43BCEFE2_1_102_o-sm.jpeg 768w ,https://kunstmanu.ch/media/posts/14/responsive/ED41A939-E03C-4797-A2E7-8BEC43BCEFE2_1_102_o-md.jpeg 1024w ,https://kunstmanu.ch/media/posts/14/responsive/ED41A939-E03C-4797-A2E7-8BEC43BCEFE2_1_102_o-lg.jpeg 1366w ,https://kunstmanu.ch/media/posts/14/responsive/ED41A939-E03C-4797-A2E7-8BEC43BCEFE2_1_102_o-xl.jpeg 1600w ,https://kunstmanu.ch/media/posts/14/responsive/ED41A939-E03C-4797-A2E7-8BEC43BCEFE2_1_102_o-2xl.jpeg 1920w\">\n      \n    </figure>",
+            "image": "https://kunstmanu.ch/media/posts/14/ED41A939-E03C-4797-A2E7-8BEC43BCEFE2_1_102_o-2.jpeg",
+            "author": {
+                "name": "manuela"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-08-25T21:49:20+02:00",
+            "date_modified": "2025-08-25T21:51:57+02:00"
+        },
+        {
+            "id": "https://kunstmanu.ch/ohne-distanz-2.html",
+            "url": "https://kunstmanu.ch/ohne-distanz-2.html",
+            "title": "Ohne Distanz",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://kunstmanu.ch/media/posts/13/5285AE37-749E-41FF-A389-9728B9BA3B47_4_5005_c.jpeg\" height=\"480\" width=\"360\" alt=\"\"  sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://kunstmanu.ch/media/posts/13/responsive/5285AE37-749E-41FF-A389-9728B9BA3B47_4_5005_c-xs.jpeg 640w ,https://kunstmanu.ch/media/posts/13/responsive/5285AE37-749E-41FF-A389-9728B9BA3B47_4_5005_c-sm.jpeg 768w ,https://kunstmanu.ch/media/posts/13/responsive/5285AE37-749E-41FF-A389-9728B9BA3B47_4_5005_c-md.jpeg 1024w ,https://kunstmanu.ch/media/posts/13/responsive/5285AE37-749E-41FF-A389-9728B9BA3B47_4_5005_c-lg.jpeg 1366w ,https://kunstmanu.ch/media/posts/13/responsive/5285AE37-749E-41FF-A389-9728B9BA3B47_4_5005_c-xl.jpeg 1600w ,https://kunstmanu.ch/media/posts/13/responsive/5285AE37-749E-41FF-A389-9728B9BA3B47_4_5005_c-2xl.jpeg 1920w\">\n      \n    </figure>",
+            "image": "https://kunstmanu.ch/media/posts/13/5285AE37-749E-41FF-A389-9728B9BA3B47_1_102_o.jpeg",
+            "author": {
+                "name": "manuela"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-08-25T21:48:52+02:00",
+            "date_modified": "2025-08-25T21:52:07+02:00"
+        },
+        {
             "id": "https://kunstmanu.ch/schattenspiel.html",
             "url": "https://kunstmanu.ch/schattenspiel.html",
-            "title": "Schattenspiel",
-            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://kunstmanu.ch/media/posts/12/IMG_3616.HEIC\" height=\"[object Object]\" width=\"[object Object]\" alt=\"\" >\n      \n    </figure>",
+            "title": "Grenzen",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://kunstmanu.ch/media/posts/12/B433EA6E-9CC3-460D-A3DA-056B6757767B_4_5005_c.jpeg\" height=\"480\" width=\"360\" alt=\"\"  sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://kunstmanu.ch/media/posts/12/responsive/B433EA6E-9CC3-460D-A3DA-056B6757767B_4_5005_c-xs.jpeg 640w ,https://kunstmanu.ch/media/posts/12/responsive/B433EA6E-9CC3-460D-A3DA-056B6757767B_4_5005_c-sm.jpeg 768w ,https://kunstmanu.ch/media/posts/12/responsive/B433EA6E-9CC3-460D-A3DA-056B6757767B_4_5005_c-md.jpeg 1024w ,https://kunstmanu.ch/media/posts/12/responsive/B433EA6E-9CC3-460D-A3DA-056B6757767B_4_5005_c-lg.jpeg 1366w ,https://kunstmanu.ch/media/posts/12/responsive/B433EA6E-9CC3-460D-A3DA-056B6757767B_4_5005_c-xl.jpeg 1600w ,https://kunstmanu.ch/media/posts/12/responsive/B433EA6E-9CC3-460D-A3DA-056B6757767B_4_5005_c-2xl.jpeg 1920w\">\n      \n    </figure>",
+            "image": "https://kunstmanu.ch/media/posts/12/B433EA6E-9CC3-460D-A3DA-056B6757767B_1_102_o.jpeg",
             "author": {
                 "name": "manuela"
             },
             "tags": [
             ],
             "date_published": "2025-08-25T18:39:37+02:00",
-            "date_modified": "2025-08-25T18:40:01+02:00"
+            "date_modified": "2025-08-25T21:52:17+02:00"
         },
         {
             "id": "https://kunstmanu.ch/ohne-distanz.html",
             "url": "https://kunstmanu.ch/ohne-distanz.html",
-            "title": "Ohne Distanz",
-            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://kunstmanu.ch/media/posts/11/IMG_3639.HEIC\" height=\"[object Object]\" width=\"[object Object]\" alt=\"\" >\n      \n    </figure>",
+            "title": "Es ist gelb",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://kunstmanu.ch/media/posts/11/3C9EBC04-4A1B-4DD2-867E-21A2A014F8FC_1_105_c.jpeg\" height=\"1024\" width=\"768\" alt=\"\"  sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://kunstmanu.ch/media/posts/11/responsive/3C9EBC04-4A1B-4DD2-867E-21A2A014F8FC_1_105_c-xs.jpeg 640w ,https://kunstmanu.ch/media/posts/11/responsive/3C9EBC04-4A1B-4DD2-867E-21A2A014F8FC_1_105_c-sm.jpeg 768w ,https://kunstmanu.ch/media/posts/11/responsive/3C9EBC04-4A1B-4DD2-867E-21A2A014F8FC_1_105_c-md.jpeg 1024w ,https://kunstmanu.ch/media/posts/11/responsive/3C9EBC04-4A1B-4DD2-867E-21A2A014F8FC_1_105_c-lg.jpeg 1366w ,https://kunstmanu.ch/media/posts/11/responsive/3C9EBC04-4A1B-4DD2-867E-21A2A014F8FC_1_105_c-xl.jpeg 1600w ,https://kunstmanu.ch/media/posts/11/responsive/3C9EBC04-4A1B-4DD2-867E-21A2A014F8FC_1_105_c-2xl.jpeg 1920w\">\n      \n    </figure>",
+            "image": "https://kunstmanu.ch/media/posts/11/3C9EBC04-4A1B-4DD2-867E-21A2A014F8FC_1_105_c-2.jpeg",
             "author": {
                 "name": "manuela"
             },
             "tags": [
             ],
             "date_published": "2025-08-25T18:38:02+02:00",
-            "date_modified": "2025-08-25T18:38:29+02:00"
+            "date_modified": "2025-08-25T21:52:34+02:00"
         },
         {
             "id": "https://kunstmanu.ch/ruhezeiten.html",
             "url": "https://kunstmanu.ch/ruhezeiten.html",
             "title": "Ruhezeiten",
-            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://kunstmanu.ch/media/posts/10/IMG_3610.HEIC\" height=\"[object Object]\" width=\"[object Object]\" alt=\"\" >\n      \n    </figure>",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://kunstmanu.ch/media/posts/10/94A45E6E-9F17-40F4-BED9-9B5C45A2138B_1_102_o.jpeg\" height=\"2048\" width=\"1536\" alt=\"\"  sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://kunstmanu.ch/media/posts/10/responsive/94A45E6E-9F17-40F4-BED9-9B5C45A2138B_1_102_o-xs.jpeg 640w ,https://kunstmanu.ch/media/posts/10/responsive/94A45E6E-9F17-40F4-BED9-9B5C45A2138B_1_102_o-sm.jpeg 768w ,https://kunstmanu.ch/media/posts/10/responsive/94A45E6E-9F17-40F4-BED9-9B5C45A2138B_1_102_o-md.jpeg 1024w ,https://kunstmanu.ch/media/posts/10/responsive/94A45E6E-9F17-40F4-BED9-9B5C45A2138B_1_102_o-lg.jpeg 1366w ,https://kunstmanu.ch/media/posts/10/responsive/94A45E6E-9F17-40F4-BED9-9B5C45A2138B_1_102_o-xl.jpeg 1600w ,https://kunstmanu.ch/media/posts/10/responsive/94A45E6E-9F17-40F4-BED9-9B5C45A2138B_1_102_o-2xl.jpeg 1920w\">\n      \n    </figure>",
+            "image": "https://kunstmanu.ch/media/posts/10/94A45E6E-9F17-40F4-BED9-9B5C45A2138B_1_102_o-2.jpeg",
             "author": {
                 "name": "manuela"
             },
             "tags": [
             ],
             "date_published": "2025-08-25T18:37:14+02:00",
-            "date_modified": "2025-08-25T18:38:44+02:00"
-        },
-        {
-            "id": "https://kunstmanu.ch/kanten.html",
-            "url": "https://kunstmanu.ch/kanten.html",
-            "title": "Kanten",
-            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://kunstmanu.ch/media/posts/9/IMG_3634-2.HEIC\" height=\"[object Object]\" width=\"[object Object]\" alt=\"\" >\n      \n    </figure>\n\n  <p>\n    \n  </p>",
-            "author": {
-                "name": "manuela"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-08-25T18:35:07+02:00",
-            "date_modified": "2025-08-25T18:38:51+02:00"
+            "date_modified": "2025-08-25T21:52:55+02:00"
         },
         {
             "id": "https://kunstmanu.ch/betrachtungen-2.html",
