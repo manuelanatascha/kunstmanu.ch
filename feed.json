@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://kunstmanu.ch/betrachtungen-2.html",
+            "url": "https://kunstmanu.ch/betrachtungen-2.html",
+            "title": "Betrachtungen",
+            "summary": "Eine Präsentation - Zählung - Eine Familie - Ein Arrangement",
+            "content_html": "<p> </p>\n<figure class=\"post__image\" ><img loading=\"lazy\" src=\"https://kunstmanu.ch/media/posts/8/db817efa-c193-4460-a479-0a99176b2076.jpg\" alt=\"Eine Präsentation\" width=\"1600\" height=\"1200\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://kunstmanu.ch/media/posts/8/responsive/db817efa-c193-4460-a479-0a99176b2076-xs.jpg 640w ,https://kunstmanu.ch/media/posts/8/responsive/db817efa-c193-4460-a479-0a99176b2076-sm.jpg 768w ,https://kunstmanu.ch/media/posts/8/responsive/db817efa-c193-4460-a479-0a99176b2076-md.jpg 1024w ,https://kunstmanu.ch/media/posts/8/responsive/db817efa-c193-4460-a479-0a99176b2076-lg.jpg 1366w ,https://kunstmanu.ch/media/posts/8/responsive/db817efa-c193-4460-a479-0a99176b2076-xl.jpg 1600w ,https://kunstmanu.ch/media/posts/8/responsive/db817efa-c193-4460-a479-0a99176b2076-2xl.jpg 1920w\">\n<figcaption >Eine Präsentation -</figcaption>\n</figure>\n<figure class=\"post__image\" ><img loading=\"lazy\" src=\"https://kunstmanu.ch/media/posts/8/IMG_5286-2.jpeg\" alt=\"\" width=\"3024\" height=\"4032\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://kunstmanu.ch/media/posts/8/responsive/IMG_5286-2-xs.jpeg 640w ,https://kunstmanu.ch/media/posts/8/responsive/IMG_5286-2-sm.jpeg 768w ,https://kunstmanu.ch/media/posts/8/responsive/IMG_5286-2-md.jpeg 1024w ,https://kunstmanu.ch/media/posts/8/responsive/IMG_5286-2-lg.jpeg 1366w ,https://kunstmanu.ch/media/posts/8/responsive/IMG_5286-2-xl.jpeg 1600w ,https://kunstmanu.ch/media/posts/8/responsive/IMG_5286-2-2xl.jpeg 1920w\">\n<figcaption >Zählung -</figcaption>\n</figure>\n<figure class=\"post__image\" ><img loading=\"lazy\" src=\"https://kunstmanu.ch/media/posts/8/IMG_9783.jpeg\" alt=\"\" width=\"3024\" height=\"4032\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://kunstmanu.ch/media/posts/8/responsive/IMG_9783-xs.jpeg 640w ,https://kunstmanu.ch/media/posts/8/responsive/IMG_9783-sm.jpeg 768w ,https://kunstmanu.ch/media/posts/8/responsive/IMG_9783-md.jpeg 1024w ,https://kunstmanu.ch/media/posts/8/responsive/IMG_9783-lg.jpeg 1366w ,https://kunstmanu.ch/media/posts/8/responsive/IMG_9783-xl.jpeg 1600w ,https://kunstmanu.ch/media/posts/8/responsive/IMG_9783-2xl.jpeg 1920w\">\n<figcaption >Eine Familie -</figcaption>\n</figure>\n<figure class=\"post__image\" ><img loading=\"lazy\" src=\"https://kunstmanu.ch/media/posts/8/2A970FB5-70F8-4667-BD54-237257D7CE7E.jpg\" alt=\"\" width=\"2160\" height=\"3840\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://kunstmanu.ch/media/posts/8/responsive/2A970FB5-70F8-4667-BD54-237257D7CE7E-xs.jpg 640w ,https://kunstmanu.ch/media/posts/8/responsive/2A970FB5-70F8-4667-BD54-237257D7CE7E-sm.jpg 768w ,https://kunstmanu.ch/media/posts/8/responsive/2A970FB5-70F8-4667-BD54-237257D7CE7E-md.jpg 1024w ,https://kunstmanu.ch/media/posts/8/responsive/2A970FB5-70F8-4667-BD54-237257D7CE7E-lg.jpg 1366w ,https://kunstmanu.ch/media/posts/8/responsive/2A970FB5-70F8-4667-BD54-237257D7CE7E-xl.jpg 1600w ,https://kunstmanu.ch/media/posts/8/responsive/2A970FB5-70F8-4667-BD54-237257D7CE7E-2xl.jpg 1920w\">\n<figcaption >Ein Arrangement</figcaption>\n</figure>",
+            "image": "https://kunstmanu.ch/media/posts/8/db817efa-c193-4460-a479-0a99176b2076-2.jpg",
+            "author": {
+                "name": "manuela"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-08-25T07:22:26+02:00",
+            "date_modified": "2025-08-25T07:25:02+02:00"
+        },
+        {
             "id": "https://kunstmanu.ch/das-unreife-gemuese.html",
             "url": "https://kunstmanu.ch/das-unreife-gemuese.html",
             "title": "Das unreife Gemüse",
