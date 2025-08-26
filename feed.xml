@@ -3,7 +3,7 @@
     <title>KUNSTMANU</title>
     <link href="https://kunstmanu.ch/feed.xml" rel="self" />
     <link href="https://kunstmanu.ch" />
-    <updated>2025-08-25T21:52:55+02:00</updated>
+    <updated>2025-08-26T22:44:59+02:00</updated>
     <author>
         <name>manuela</name>
     </author>
@@ -120,41 +120,6 @@
         </content>
     </entry>
     <entry>
-        <title>Betrachtungen</title>
-        <author>
-            <name>manuela</name>
-        </author>
-        <link href="https://kunstmanu.ch/betrachtungen-2.html"/>
-        <id>https://kunstmanu.ch/betrachtungen-2.html</id>
-        <media:content url="https://kunstmanu.ch/media/posts/8/db817efa-c193-4460-a479-0a99176b2076-2.jpg" medium="image" />
-
-        <updated>2025-08-25T07:22:26+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://kunstmanu.ch/media/posts/8/db817efa-c193-4460-a479-0a99176b2076-2.jpg" alt="" />
-                    Eine Präsentation - Zählung - Eine Familie - Ein Arrangement
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://kunstmanu.ch/media/posts/8/db817efa-c193-4460-a479-0a99176b2076-2.jpg" class="type:primaryImage" alt="" /></p>
-                <p> </p>
-<figure class="post__image" ><img loading="lazy" src="https://kunstmanu.ch/media/posts/8/db817efa-c193-4460-a479-0a99176b2076.jpg" alt="Eine Präsentation" width="1600" height="1200" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://kunstmanu.ch/media/posts/8/responsive/db817efa-c193-4460-a479-0a99176b2076-xs.jpg 640w ,https://kunstmanu.ch/media/posts/8/responsive/db817efa-c193-4460-a479-0a99176b2076-sm.jpg 768w ,https://kunstmanu.ch/media/posts/8/responsive/db817efa-c193-4460-a479-0a99176b2076-md.jpg 1024w ,https://kunstmanu.ch/media/posts/8/responsive/db817efa-c193-4460-a479-0a99176b2076-lg.jpg 1366w ,https://kunstmanu.ch/media/posts/8/responsive/db817efa-c193-4460-a479-0a99176b2076-xl.jpg 1600w ,https://kunstmanu.ch/media/posts/8/responsive/db817efa-c193-4460-a479-0a99176b2076-2xl.jpg 1920w">
-<figcaption >Eine Präsentation -</figcaption>
-</figure>
-<figure class="post__image" ><img loading="lazy" src="https://kunstmanu.ch/media/posts/8/IMG_5286-2.jpeg" alt="" width="3024" height="4032" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://kunstmanu.ch/media/posts/8/responsive/IMG_5286-2-xs.jpeg 640w ,https://kunstmanu.ch/media/posts/8/responsive/IMG_5286-2-sm.jpeg 768w ,https://kunstmanu.ch/media/posts/8/responsive/IMG_5286-2-md.jpeg 1024w ,https://kunstmanu.ch/media/posts/8/responsive/IMG_5286-2-lg.jpeg 1366w ,https://kunstmanu.ch/media/posts/8/responsive/IMG_5286-2-xl.jpeg 1600w ,https://kunstmanu.ch/media/posts/8/responsive/IMG_5286-2-2xl.jpeg 1920w">
-<figcaption >Zählung -</figcaption>
-</figure>
-<figure class="post__image" ><img loading="lazy" src="https://kunstmanu.ch/media/posts/8/IMG_9783.jpeg" alt="" width="3024" height="4032" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://kunstmanu.ch/media/posts/8/responsive/IMG_9783-xs.jpeg 640w ,https://kunstmanu.ch/media/posts/8/responsive/IMG_9783-sm.jpeg 768w ,https://kunstmanu.ch/media/posts/8/responsive/IMG_9783-md.jpeg 1024w ,https://kunstmanu.ch/media/posts/8/responsive/IMG_9783-lg.jpeg 1366w ,https://kunstmanu.ch/media/posts/8/responsive/IMG_9783-xl.jpeg 1600w ,https://kunstmanu.ch/media/posts/8/responsive/IMG_9783-2xl.jpeg 1920w">
-<figcaption >Eine Familie -</figcaption>
-</figure>
-<figure class="post__image" ><img loading="lazy" src="https://kunstmanu.ch/media/posts/8/2A970FB5-70F8-4667-BD54-237257D7CE7E.jpg" alt="" width="2160" height="3840" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://kunstmanu.ch/media/posts/8/responsive/2A970FB5-70F8-4667-BD54-237257D7CE7E-xs.jpg 640w ,https://kunstmanu.ch/media/posts/8/responsive/2A970FB5-70F8-4667-BD54-237257D7CE7E-sm.jpg 768w ,https://kunstmanu.ch/media/posts/8/responsive/2A970FB5-70F8-4667-BD54-237257D7CE7E-md.jpg 1024w ,https://kunstmanu.ch/media/posts/8/responsive/2A970FB5-70F8-4667-BD54-237257D7CE7E-lg.jpg 1366w ,https://kunstmanu.ch/media/posts/8/responsive/2A970FB5-70F8-4667-BD54-237257D7CE7E-xl.jpg 1600w ,https://kunstmanu.ch/media/posts/8/responsive/2A970FB5-70F8-4667-BD54-237257D7CE7E-2xl.jpg 1920w">
-<figcaption >Ein Arrangement</figcaption>
-</figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>Das unreife Gemüse</title>
         <author>
             <name>manuela</name>
@@ -215,28 +180,6 @@
                 
     <figure class="post__image post__image--center">
       <img loading="lazy" src="https://kunstmanu.ch/media/posts/2/IMG_0460.jpeg" height="3024" width="4032" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://kunstmanu.ch/media/posts/2/responsive/IMG_0460-xs.jpeg 640w ,https://kunstmanu.ch/media/posts/2/responsive/IMG_0460-sm.jpeg 768w ,https://kunstmanu.ch/media/posts/2/responsive/IMG_0460-md.jpeg 1024w ,https://kunstmanu.ch/media/posts/2/responsive/IMG_0460-lg.jpeg 1366w ,https://kunstmanu.ch/media/posts/2/responsive/IMG_0460-xl.jpeg 1600w ,https://kunstmanu.ch/media/posts/2/responsive/IMG_0460-2xl.jpeg 1920w">
-      
-    </figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Selbstbildnis</title>
-        <author>
-            <name>manuela</name>
-        </author>
-        <link href="https://kunstmanu.ch/frau-mit-blume-und-ente-selbstbildnis.html"/>
-        <id>https://kunstmanu.ch/frau-mit-blume-und-ente-selbstbildnis.html</id>
-        <media:content url="https://kunstmanu.ch/media/posts/1/Unbenanntes_Projekt-2.jpg" medium="image" />
-
-        <updated>2025-08-24T21:38:16+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://kunstmanu.ch/media/posts/1/Unbenanntes_Projekt-2.jpg" class="type:primaryImage" alt="" /></p>
-                
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://kunstmanu.ch/media/posts/1/Unbenanntes_Projekt.jpg" height="1640" width="1640" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://kunstmanu.ch/media/posts/1/responsive/Unbenanntes_Projekt-xs.jpg 640w ,https://kunstmanu.ch/media/posts/1/responsive/Unbenanntes_Projekt-sm.jpg 768w ,https://kunstmanu.ch/media/posts/1/responsive/Unbenanntes_Projekt-md.jpg 1024w ,https://kunstmanu.ch/media/posts/1/responsive/Unbenanntes_Projekt-lg.jpg 1366w ,https://kunstmanu.ch/media/posts/1/responsive/Unbenanntes_Projekt-xl.jpg 1600w ,https://kunstmanu.ch/media/posts/1/responsive/Unbenanntes_Projekt-2xl.jpg 1920w">
       
     </figure>
             ]]>
