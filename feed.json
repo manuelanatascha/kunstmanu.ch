@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://kunstmanu.ch/gruenes-gemuese.html",
+            "url": "https://kunstmanu.ch/gruenes-gemuese.html",
+            "title": "Grünes Gemüse",
+            "summary": "Schau es dir hier an",
+            "content_html": "<p>Schau es dir <a href=\"https://kunstmanu.ch/sammlung-17g.html\">hier</a> an</p>",
+            "image": "https://kunstmanu.ch/media/posts/49/IMG_1458.jpeg",
+            "author": {
+                "name": "manuela"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-08-29T23:01:12+02:00",
+            "date_modified": "2025-08-29T23:01:33+02:00"
+        },
+        {
             "id": "https://kunstmanu.ch/impressionen-aus-einem-instabilen-leben.html",
             "url": "https://kunstmanu.ch/impressionen-aus-einem-instabilen-leben.html",
             "title": "Impressionen aus einem instabilen Leben",
