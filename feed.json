@@ -10,18 +10,32 @@
     },
     "items": [
         {
-            "id": "https://kunstmanu.ch/ich-mag-dich.html",
-            "url": "https://kunstmanu.ch/ich-mag-dich.html",
-            "title": "Ich mag dich",
-            "summary": "Du teilst diesen Raum mit mir - danke &lt;3",
-            "content_html": "<p>Du teilst diesen Raum mit mir - danke &lt;3</p>",
+            "id": "https://kunstmanu.ch/impressionen-aus-einem-instabilen-leben.html",
+            "url": "https://kunstmanu.ch/impressionen-aus-einem-instabilen-leben.html",
+            "title": "Impressionen aus einem instabilen Leben",
+            "summary": "Hier ",
+            "content_html": "<p><a href=\"https://kunstmanu.ch/sammlung-5b.html\">Hier</a> </p>",
             "author": {
                 "name": "manuela"
             },
             "tags": [
             ],
-            "date_published": "2025-08-29T21:30:43+02:00",
-            "date_modified": "2025-08-29T21:36:55+02:00"
+            "date_published": "2025-08-29T22:25:03+02:00",
+            "date_modified": "2025-08-29T22:28:15+02:00"
+        },
+        {
+            "id": "https://kunstmanu.ch/lieblingsbeschaeftigung-meiner-kindheit.html",
+            "url": "https://kunstmanu.ch/lieblingsbeschaeftigung-meiner-kindheit.html",
+            "title": "Lieblingsbeschäftigung",
+            "summary": "Als Kind solche Konstrukte mit paint auf dem PC des grossen Bruders.",
+            "content_html": "<p><a href=\"https://kunstmanu.ch/erinnerungen.html\"></a>Als Kind <a href=\"https://kunstmanu.ch/erinnerungen.html\">solche Konstrukte</a> mit paint auf dem PC des grossen Bruders.</p>",
+            "author": {
+                "name": "manuela"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-08-29T22:19:58+02:00",
+            "date_modified": "2025-08-29T22:27:05+02:00"
         }
     ]
 }
