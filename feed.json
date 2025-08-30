@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://kunstmanu.ch/woerterflut.html",
+            "url": "https://kunstmanu.ch/woerterflut.html",
+            "title": "Wörterflut",
+            "summary": "Manchmal ist zuviel auf einmal in meinem Kopf. Dann schreibe ich Wörter, wie z.B. hier.",
+            "content_html": "<p>Manchmal ist zuviel auf einmal in meinem Kopf. Dann schreibe ich Wörter, wie z.B. <a href=\"https://kunstmanu.ch/die-hydrierung-tausender.html\">hier</a>.</p>",
+            "image": "https://kunstmanu.ch/media/posts/50/Bildschirmfoto-2025-08-30-um-09.31.33.png",
+            "author": {
+                "name": "manuela"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-08-30T09:29:39+02:00",
+            "date_modified": "2025-08-30T09:31:45+02:00"
+        },
+        {
             "id": "https://kunstmanu.ch/gruenes-gemuese.html",
             "url": "https://kunstmanu.ch/gruenes-gemuese.html",
             "title": "Grünes Gemüse",
