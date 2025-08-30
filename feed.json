@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://kunstmanu.ch/reste.html",
+            "url": "https://kunstmanu.ch/reste.html",
+            "title": "Reste",
+            "summary": "1/2 Banane und weitere Inhalte",
+            "content_html": "<p><a href=\"https://kunstmanu.ch/sammlung-2a.html\">1/2 Banane</a> und weitere Inhalte</p>",
+            "image": "https://kunstmanu.ch/media/posts/51/IMG_3566.jpeg",
+            "author": {
+                "name": "manuela"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-08-30T11:02:44+02:00",
+            "date_modified": "2025-08-30T13:07:29+02:00"
+        },
+        {
             "id": "https://kunstmanu.ch/woerterflut.html",
             "url": "https://kunstmanu.ch/woerterflut.html",
             "title": "Wörterflut",
