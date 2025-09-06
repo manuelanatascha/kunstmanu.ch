@@ -10,6 +10,66 @@
     },
     "items": [
         {
+            "id": "https://kunstmanu.ch/ich-habe-schon-mehrfach-geweint.html",
+            "url": "https://kunstmanu.ch/ich-habe-schon-mehrfach-geweint.html",
+            "title": "Ich habe schon mehrfach geweint",
+            "summary": "Auf meinem mobilen Endgerät ist eine Statistik zu finden, in welcher die einzelnen Vorkommnisse, an denen ich Tränen vergossen habe, dokumentiert sind. Nützen tut das nicht. Hier sind Zeichnungen.",
+            "content_html": "<p>Auf meinem mobilen Endgerät ist eine Statistik zu finden, in welcher die einzelnen Vorkommnisse, an denen ich Tränen vergossen habe, dokumentiert sind. Nützen tut das nicht. <a href=\"https://kunstmanu.ch/striche.html\">Hier</a> sind Zeichnungen.</p>",
+            "image": "https://kunstmanu.ch/media/posts/56/41BB26DD-478C-494B-9242-6B24C34819E5.jpeg",
+            "author": {
+                "name": "manuela"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-09-06T11:13:28+02:00",
+            "date_modified": "2025-09-06T11:13:28+02:00"
+        },
+        {
+            "id": "https://kunstmanu.ch/oeffentliches-urinieren.html",
+            "url": "https://kunstmanu.ch/oeffentliches-urinieren.html",
+            "title": "Öffentliches Urinieren",
+            "summary": "Dieses Bild ist in meinem Keller. Man sollte das nicht. ",
+            "content_html": "<p><a href=\"https://kunstmanu.ch/sammlung-18e.html\">Dieses Bild</a> ist in meinem Keller. Man sollte das nicht. </p>",
+            "image": "https://kunstmanu.ch/media/posts/55/IMG_5741.jpeg",
+            "author": {
+                "name": "manuela"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-09-06T11:11:16+02:00",
+            "date_modified": "2025-09-06T11:11:16+02:00"
+        },
+        {
+            "id": "https://kunstmanu.ch/fremd.html",
+            "url": "https://kunstmanu.ch/fremd.html",
+            "title": "Fremd",
+            "summary": "Ich mag dich, ich mag Zeitschriften, Bücher, Hefte, Ansammlungen von Papier. Hier ist ein Foto von etwas.",
+            "content_html": "<p>Ich mag dich, ich mag Zeitschriften, Bücher, Hefte, Ansammlungen von Papier. Hier ist ein <a href=\"https://kunstmanu.ch/sammlung-18e.html\">Foto</a> von etwas.</p>",
+            "image": "https://kunstmanu.ch/media/posts/54/IMG_0226.jpeg",
+            "author": {
+                "name": "manuela"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-09-06T11:08:47+02:00",
+            "date_modified": "2025-09-06T11:09:11+02:00"
+        },
+        {
+            "id": "https://kunstmanu.ch/hast-du-gute-laune.html",
+            "url": "https://kunstmanu.ch/hast-du-gute-laune.html",
+            "title": "Hast du gute Laune?",
+            "summary": "Du kannst das hier anschauen.",
+            "content_html": "<p>Du kannst das <a href=\"https://kunstmanu.ch/striche.html\">hier</a> anschauen.</p>",
+            "image": "https://kunstmanu.ch/media/posts/53/34FEBFFD-C1F5-4E7A-B270-8FFB625231BE.jpeg",
+            "author": {
+                "name": "manuela"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-09-06T11:07:10+02:00",
+            "date_modified": "2025-09-06T11:07:10+02:00"
+        },
+        {
             "id": "https://kunstmanu.ch/reste.html",
             "url": "https://kunstmanu.ch/reste.html",
             "title": "Reste",
