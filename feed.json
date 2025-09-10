@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://kunstmanu.ch/ich-habe-einen-sack-voller-steine-gekauft.html",
+            "url": "https://kunstmanu.ch/ich-habe-einen-sack-voller-steine-gekauft.html",
+            "title": "Ich habe einen Sack voller Steine gekauft",
+            "summary": "Ich habe dazu auch diverses Werkzeug gekauft. Du kannst es dir hier anschauen: Steine",
+            "content_html": "<p>Ich habe dazu auch diverses Werkzeug gekauft. Du kannst es dir hier anschauen: <a href=\"https://kunstmanu.ch/steine.html\">Steine</a></p>",
+            "image": "https://kunstmanu.ch/media/posts/60/IMG_4432.jpeg",
+            "author": {
+                "name": "manuela"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-09-10T21:33:43+02:00",
+            "date_modified": "2025-09-10T21:33:43+02:00"
+        },
+        {
             "id": "https://kunstmanu.ch/wir-alle.html",
             "url": "https://kunstmanu.ch/wir-alle.html",
             "title": "Wir alle",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2025-08-29T22:25:03+02:00",
             "date_modified": "2025-08-30T09:24:53+02:00"
-        },
-        {
-            "id": "https://kunstmanu.ch/lieblingsbeschaeftigung-meiner-kindheit.html",
-            "url": "https://kunstmanu.ch/lieblingsbeschaeftigung-meiner-kindheit.html",
-            "title": "Lieblingsbeschäftigung",
-            "summary": "Als Kind solche Konstrukte mit paint auf dem PC des grossen Bruders.",
-            "content_html": "<p><a href=\"https://kunstmanu.ch/erinnerungen.html\"></a>Als Kind <a href=\"https://kunstmanu.ch/erinnerungen.html\">solche Konstrukte</a> mit paint auf dem PC des grossen Bruders.</p>",
-            "image": "https://kunstmanu.ch/media/posts/47/childhood-memories-008.png",
-            "author": {
-                "name": "manuela"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-08-29T22:19:58+02:00",
-            "date_modified": "2025-08-29T22:39:52+02:00"
         }
     ]
 }
