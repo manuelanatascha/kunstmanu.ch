@@ -82,14 +82,14 @@
             "tags": [
             ],
             "date_published": "2025-09-06T11:08:47+02:00",
-            "date_modified": "2025-09-06T11:09:11+02:00"
+            "date_modified": "2025-09-11T22:45:44+02:00"
         },
         {
             "id": "https://kunstmanu.ch/hast-du-gute-laune.html",
             "url": "https://kunstmanu.ch/hast-du-gute-laune.html",
             "title": "Hast du gute Laune?",
-            "summary": "Du kannst das hier anschauen.",
-            "content_html": "<p>Du kannst das <a href=\"https://kunstmanu.ch/striche.html\">hier</a> anschauen.</p>",
+            "summary": "Dagegen gibt es Medikamente. Du kannst hier ein lachendes Gesicht anschauen.",
+            "content_html": "<p>Dagegen gibt es Medikamente. Du kannst <a href=\"https://kunstmanu.ch/striche.html\">hier</a> ein lachendes Gesicht anschauen.</p>",
             "image": "https://kunstmanu.ch/media/posts/53/34FEBFFD-C1F5-4E7A-B270-8FFB625231BE.jpeg",
             "author": {
                 "name": "manuela"
@@ -97,7 +97,7 @@
             "tags": [
             ],
             "date_published": "2025-09-06T11:07:10+02:00",
-            "date_modified": "2025-09-06T11:07:10+02:00"
+            "date_modified": "2025-09-11T22:45:38+02:00"
         },
         {
             "id": "https://kunstmanu.ch/reste.html",
