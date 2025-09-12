@@ -3,12 +3,41 @@
     <title>KUNSTMANU</title>
     <link href="https://kunstmanu.ch/feed.xml" rel="self" />
     <link href="https://kunstmanu.ch" />
-    <updated>2025-09-11T22:45:44+02:00</updated>
+    <updated>2025-09-12T22:48:10+02:00</updated>
     <author>
         <name>manuela</name>
     </author>
     <id>https://kunstmanu.ch</id>
 
+    <entry>
+        <title>Ein neues Zeitalter</title>
+        <author>
+            <name>manuela</name>
+        </author>
+        <link href="https://kunstmanu.ch/ein-neues-zeitalter.html"/>
+        <id>https://kunstmanu.ch/ein-neues-zeitalter.html</id>
+        <media:content url="https://kunstmanu.ch/media/posts/61/IMG_4559.jpeg" medium="image" />
+
+        <updated>2025-09-12T22:46:30+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://kunstmanu.ch/media/posts/61/IMG_4559.jpeg" alt="" />
+                    Ich habe 3 neue Schlüssel, die sind alle genau gleich. Ich war im Lidl und habe einen Staubsauger gekauft. Ich habe farbiges Papier ausgeschnitten und Podcast gehört.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://kunstmanu.ch/media/posts/61/IMG_4559.jpeg" class="type:primaryImage" alt="" /></p>
+                <p>Ich habe 3 neue Schlüssel, die sind alle genau gleich. Ich war im Lidl und habe einen Staubsauger gekauft. Ich habe farbiges Papier ausgeschnitten und Podcast gehört.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="4">
+<figure class="gallery__item"><a href="https://kunstmanu.ch/media/posts/61/gallery/IMG_4554.jpeg" data-size="4032x3024"><img loading="lazy" src="https://kunstmanu.ch/media/posts/61/gallery/IMG_4554-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://kunstmanu.ch/media/posts/61/gallery/IMG_4557.jpeg" data-size="4032x3024"><img loading="lazy" src="https://kunstmanu.ch/media/posts/61/gallery/IMG_4557-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://kunstmanu.ch/media/posts/61/gallery/IMG_4559.jpeg" data-size="4032x3024"><img loading="lazy" src="https://kunstmanu.ch/media/posts/61/gallery/IMG_4559-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://kunstmanu.ch/media/posts/61/gallery/IMG_4568.jpeg" data-size="4032x3024"><img loading="lazy" src="https://kunstmanu.ch/media/posts/61/gallery/IMG_4568-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Ich habe einen Sack voller Steine gekauft</title>
         <author>
@@ -213,29 +242,6 @@
             <![CDATA[
                     <p><img src="https://kunstmanu.ch/media/posts/49/IMG_1458.jpeg" class="type:primaryImage" alt="" /></p>
                 <p>Schau es dir <a href="https://kunstmanu.ch/sammlung-17g.html">hier</a> an</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Impressionen aus einem Leben</title>
-        <author>
-            <name>manuela</name>
-        </author>
-        <link href="https://kunstmanu.ch/impressionen-aus-einem-instabilen-leben.html"/>
-        <id>https://kunstmanu.ch/impressionen-aus-einem-instabilen-leben.html</id>
-        <media:content url="https://kunstmanu.ch/media/posts/48/IMG_9783.jpeg" medium="image" />
-
-        <updated>2025-08-29T22:25:03+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://kunstmanu.ch/media/posts/48/IMG_9783.jpeg" alt="" />
-                    Hier kannst du mehr anschauen. 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://kunstmanu.ch/media/posts/48/IMG_9783.jpeg" class="type:primaryImage" alt="" /></p>
-                <p><a href="https://kunstmanu.ch/sammlung-5b.html">Hier</a> kannst du mehr anschauen. </p>
             ]]>
         </content>
     </entry>

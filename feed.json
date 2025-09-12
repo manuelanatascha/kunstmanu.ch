@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://kunstmanu.ch/ein-neues-zeitalter.html",
+            "url": "https://kunstmanu.ch/ein-neues-zeitalter.html",
+            "title": "Ein neues Zeitalter",
+            "summary": "Ich habe 3 neue Schlüssel, die sind alle genau gleich. Ich war im Lidl und habe einen Staubsauger gekauft. Ich habe farbiges Papier ausgeschnitten und Podcast gehört.",
+            "content_html": "<p>Ich habe 3 neue Schlüssel, die sind alle genau gleich. Ich war im Lidl und habe einen Staubsauger gekauft. Ich habe farbiges Papier ausgeschnitten und Podcast gehört.</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"4\">\n<figure class=\"gallery__item\"><a href=\"https://kunstmanu.ch/media/posts/61/gallery/IMG_4554.jpeg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://kunstmanu.ch/media/posts/61/gallery/IMG_4554-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://kunstmanu.ch/media/posts/61/gallery/IMG_4557.jpeg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://kunstmanu.ch/media/posts/61/gallery/IMG_4557-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://kunstmanu.ch/media/posts/61/gallery/IMG_4559.jpeg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://kunstmanu.ch/media/posts/61/gallery/IMG_4559-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://kunstmanu.ch/media/posts/61/gallery/IMG_4568.jpeg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://kunstmanu.ch/media/posts/61/gallery/IMG_4568-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n</div></div>",
+            "image": "https://kunstmanu.ch/media/posts/61/IMG_4559.jpeg",
+            "author": {
+                "name": "manuela"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-09-12T22:46:30+02:00",
+            "date_modified": "2025-09-12T22:48:10+02:00"
+        },
+        {
             "id": "https://kunstmanu.ch/ich-habe-einen-sack-voller-steine-gekauft.html",
             "url": "https://kunstmanu.ch/ich-habe-einen-sack-voller-steine-gekauft.html",
             "title": "Ich habe einen Sack voller Steine gekauft",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2025-08-29T23:01:12+02:00",
             "date_modified": "2025-08-29T23:01:33+02:00"
-        },
-        {
-            "id": "https://kunstmanu.ch/impressionen-aus-einem-instabilen-leben.html",
-            "url": "https://kunstmanu.ch/impressionen-aus-einem-instabilen-leben.html",
-            "title": "Impressionen aus einem Leben",
-            "summary": "Hier kannst du mehr anschauen. ",
-            "content_html": "<p><a href=\"https://kunstmanu.ch/sammlung-5b.html\">Hier</a> kannst du mehr anschauen. </p>",
-            "image": "https://kunstmanu.ch/media/posts/48/IMG_9783.jpeg",
-            "author": {
-                "name": "manuela"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-08-29T22:25:03+02:00",
-            "date_modified": "2025-08-30T09:24:53+02:00"
         }
     ]
 }
