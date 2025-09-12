@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://kunstmanu.ch/peperoni.html",
+            "url": "https://kunstmanu.ch/peperoni.html",
+            "title": "Peperoni",
+            "summary": "Ich gehe da nicht mit. Ihr seid doch alle Heuchler.",
+            "content_html": "<p>Ich gehe da nicht mit. Ihr seid doch alle Heuchler.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://kunstmanu.ch/media/posts/62/IMG_4556-2.jpeg\" alt=\"\" width=\"500\" height=\"667\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://kunstmanu.ch/media/posts/62/responsive/IMG_4556-2-xs.jpeg 640w ,https://kunstmanu.ch/media/posts/62/responsive/IMG_4556-2-sm.jpeg 768w ,https://kunstmanu.ch/media/posts/62/responsive/IMG_4556-2-md.jpeg 1024w ,https://kunstmanu.ch/media/posts/62/responsive/IMG_4556-2-lg.jpeg 1366w ,https://kunstmanu.ch/media/posts/62/responsive/IMG_4556-2-xl.jpeg 1600w ,https://kunstmanu.ch/media/posts/62/responsive/IMG_4556-2-2xl.jpeg 1920w\"></figure>",
+            "image": "https://kunstmanu.ch/media/posts/62/IMG_4556.jpeg",
+            "author": {
+                "name": "manuela"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-09-12T22:50:20+02:00",
+            "date_modified": "2025-09-12T22:53:30+02:00"
+        },
+        {
             "id": "https://kunstmanu.ch/ein-neues-zeitalter.html",
             "url": "https://kunstmanu.ch/ein-neues-zeitalter.html",
             "title": "Ein neues Zeitalter",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2025-08-30T09:29:39+02:00",
             "date_modified": "2025-08-30T09:31:45+02:00"
-        },
-        {
-            "id": "https://kunstmanu.ch/gruenes-gemuese.html",
-            "url": "https://kunstmanu.ch/gruenes-gemuese.html",
-            "title": "Grünes Gemüse",
-            "summary": "Schau es dir hier an",
-            "content_html": "<p>Schau es dir <a href=\"https://kunstmanu.ch/sammlung-17g.html\">hier</a> an</p>",
-            "image": "https://kunstmanu.ch/media/posts/49/IMG_1458.jpeg",
-            "author": {
-                "name": "manuela"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-08-29T23:01:12+02:00",
-            "date_modified": "2025-08-29T23:01:33+02:00"
         }
     ]
 }
