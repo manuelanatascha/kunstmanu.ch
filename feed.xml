@@ -3,7 +3,7 @@
     <title>KUNSTMANU</title>
     <link href="https://kunstmanu.ch/feed.xml" rel="self" />
     <link href="https://kunstmanu.ch" />
-    <updated>2025-09-17T23:44:39+02:00</updated>
+    <updated>2025-09-18T00:02:37+02:00</updated>
     <author>
         <name>manuela</name>
     </author>
@@ -92,18 +92,18 @@
         </author>
         <link href="https://kunstmanu.ch/ich-habe-einen-sack-voller-steine-gekauft.html"/>
         <id>https://kunstmanu.ch/ich-habe-einen-sack-voller-steine-gekauft.html</id>
-        <media:content url="https://kunstmanu.ch/media/posts/60/IMG_4432.jpeg" medium="image" />
+        <media:content url="https://kunstmanu.ch/media/posts/60/IMG_4596.jpeg" medium="image" />
 
         <updated>2025-09-10T21:33:43+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://kunstmanu.ch/media/posts/60/IMG_4432.jpeg" alt="" />
+                        <img src="https://kunstmanu.ch/media/posts/60/IMG_4596.jpeg" alt="" />
                     Ich habe dazu auch diverses Werkzeug gekauft. Du kannst es dir hier anschauen: Steine
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://kunstmanu.ch/media/posts/60/IMG_4432.jpeg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://kunstmanu.ch/media/posts/60/IMG_4596.jpeg" class="type:primaryImage" alt="" /></p>
                 <p>Ich habe dazu auch diverses Werkzeug gekauft. Du kannst es dir hier anschauen: <a href="https://kunstmanu.ch/steine.html">Steine</a></p>
             ]]>
         </content>
