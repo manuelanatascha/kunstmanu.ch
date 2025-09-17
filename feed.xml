@@ -3,12 +3,35 @@
     <title>KUNSTMANU</title>
     <link href="https://kunstmanu.ch/feed.xml" rel="self" />
     <link href="https://kunstmanu.ch" />
-    <updated>2025-09-12T22:53:30+02:00</updated>
+    <updated>2025-09-17T23:44:39+02:00</updated>
     <author>
         <name>manuela</name>
     </author>
     <id>https://kunstmanu.ch</id>
 
+    <entry>
+        <title>Stolpern</title>
+        <author>
+            <name>manuela</name>
+        </author>
+        <link href="https://kunstmanu.ch/stolpern.html"/>
+        <id>https://kunstmanu.ch/stolpern.html</id>
+        <media:content url="https://kunstmanu.ch/media/posts/64/IMG_4309.jpeg" medium="image" />
+
+        <updated>2025-09-17T23:44:39+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://kunstmanu.ch/media/posts/64/IMG_4309.jpeg" alt="" />
+                    Ein Foto von einem Schild und weitere Betrachtungen der Umwelt.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://kunstmanu.ch/media/posts/64/IMG_4309.jpeg" class="type:primaryImage" alt="" /></p>
+                <p>Ein Foto von einem <a href="https://kunstmanu.ch/sammlung-6k.html">Schild</a> und weitere Betrachtungen der Umwelt.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Peperoni</title>
         <author>
@@ -220,29 +243,6 @@
             <![CDATA[
                     <p><img src="https://kunstmanu.ch/media/posts/51/IMG_3566.jpeg" class="type:primaryImage" alt="" /></p>
                 <p><a href="https://kunstmanu.ch/sammlung-2a.html">1/2 Banane</a> und weitere Inhalte</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Wörterflut</title>
-        <author>
-            <name>manuela</name>
-        </author>
-        <link href="https://kunstmanu.ch/woerterflut.html"/>
-        <id>https://kunstmanu.ch/woerterflut.html</id>
-        <media:content url="https://kunstmanu.ch/media/posts/50/Bildschirmfoto-2025-08-30-um-09.31.33.png" medium="image" />
-
-        <updated>2025-08-30T09:29:39+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://kunstmanu.ch/media/posts/50/Bildschirmfoto-2025-08-30-um-09.31.33.png" alt="" />
-                    Manchmal ist zuviel auf einmal in meinem Kopf. Dann schreibe ich Wörter, wie z.B. hier.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://kunstmanu.ch/media/posts/50/Bildschirmfoto-2025-08-30-um-09.31.33.png" class="type:primaryImage" alt="" /></p>
-                <p>Manchmal ist zuviel auf einmal in meinem Kopf. Dann schreibe ich Wörter, wie z.B. <a href="https://kunstmanu.ch/die-hydrierung-tausender.html">hier</a>.</p>
             ]]>
         </content>
     </entry>
