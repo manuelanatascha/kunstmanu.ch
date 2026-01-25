@@ -10,6 +10,35 @@
     },
     "items": [
         {
+            "id": "https://kunstmanu.ch/woerter-ausschneiden-und-neu-zusammenfuegen.html",
+            "url": "https://kunstmanu.ch/woerter-ausschneiden-und-neu-zusammenfuegen.html",
+            "title": "Wörter ausschneiden und neu zusammenfügen",
+            "summary": "Was bedeutet es, jetzt zu leben?",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"5\">\n<figure class=\"gallery__item\"><a href=\"https://kunstmanu.ch/media/posts/93/gallery/IMG_0270.jpeg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://kunstmanu.ch/media/posts/93/gallery/IMG_0270-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://kunstmanu.ch/media/posts/93/gallery/IMG_0271.jpeg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://kunstmanu.ch/media/posts/93/gallery/IMG_0271-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://kunstmanu.ch/media/posts/93/gallery/IMG_0272.jpeg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://kunstmanu.ch/media/posts/93/gallery/IMG_0272-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://kunstmanu.ch/media/posts/93/gallery/IMG_0273.jpeg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://kunstmanu.ch/media/posts/93/gallery/IMG_0273-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://kunstmanu.ch/media/posts/93/gallery/IMG_0274.jpeg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://kunstmanu.ch/media/posts/93/gallery/IMG_0274-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n</div></div>\n<p>Was bedeutet es, jetzt zu leben?</p>",
+            "image": "https://kunstmanu.ch/media/posts/93/IMG_0269.jpeg",
+            "author": {
+                "name": "manuela"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-01-25T17:16:01+01:00",
+            "date_modified": "2026-01-25T17:16:01+01:00"
+        },
+        {
+            "id": "https://kunstmanu.ch/selbstportraits-vom-letzten-jahr-2.html",
+            "url": "https://kunstmanu.ch/selbstportraits-vom-letzten-jahr-2.html",
+            "title": "Selbstportraits vom letzten Jahr",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://kunstmanu.ch/media/posts/92/gallery/IMG_0283.jpeg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://kunstmanu.ch/media/posts/92/gallery/IMG_0283-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://kunstmanu.ch/media/posts/92/gallery/IMG_0281.jpeg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://kunstmanu.ch/media/posts/92/gallery/IMG_0281-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://kunstmanu.ch/media/posts/92/gallery/IMG_0282.jpeg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://kunstmanu.ch/media/posts/92/gallery/IMG_0282-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n</div></div>\n<p> </p>",
+            "image": "https://kunstmanu.ch/media/posts/92/IMG_0282.jpeg",
+            "author": {
+                "name": "manuela"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-01-25T17:14:41+01:00",
+            "date_modified": "2026-01-25T17:16:24+01:00"
+        },
+        {
             "id": "https://kunstmanu.ch/die-neue-sammlung-von-betrachtungen-ist-hier.html",
             "url": "https://kunstmanu.ch/die-neue-sammlung-von-betrachtungen-ist-hier.html",
             "title": "Die neue Sammlung von Betrachtungen ist hier",
@@ -128,36 +157,6 @@
             ],
             "date_published": "2025-12-06T22:19:57+01:00",
             "date_modified": "2026-01-25T11:41:09+01:00"
-        },
-        {
-            "id": "https://kunstmanu.ch/mehr-stoff.html",
-            "url": "https://kunstmanu.ch/mehr-stoff.html",
-            "title": "mehr Stoff",
-            "summary": "Ich habe weiter genäht mit einem alten und einem neuen (alten) Stoff. Ich besitze jetzt 18 Jutebeutel.",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://kunstmanu.ch/media/posts/81/gallery/IMG_6693.jpeg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://kunstmanu.ch/media/posts/81/gallery/IMG_6693-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://kunstmanu.ch/media/posts/81/gallery/IMG_6696.jpeg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://kunstmanu.ch/media/posts/81/gallery/IMG_6696-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://kunstmanu.ch/media/posts/81/gallery/IMG_6698.jpeg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://kunstmanu.ch/media/posts/81/gallery/IMG_6698-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://kunstmanu.ch/media/posts/81/gallery/IMG_6699.jpeg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://kunstmanu.ch/media/posts/81/gallery/IMG_6699-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://kunstmanu.ch/media/posts/81/gallery/IMG_6703.jpeg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://kunstmanu.ch/media/posts/81/gallery/IMG_6703-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://kunstmanu.ch/media/posts/81/gallery/IMG_6704.jpeg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://kunstmanu.ch/media/posts/81/gallery/IMG_6704-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n</div></div>\n<p>Ich habe weiter genäht mit einem alten und einem neuen (alten) Stoff.</p>\n<p>Ich besitze jetzt 18 Jutebeutel.</p>",
-            "image": "https://kunstmanu.ch/media/posts/81/IMG_6703.jpeg",
-            "author": {
-                "name": "manuela"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-10-26T21:16:35+01:00",
-            "date_modified": "2025-10-26T21:19:09+01:00"
-        },
-        {
-            "id": "https://kunstmanu.ch/leider-kein-gewinn.html",
-            "url": "https://kunstmanu.ch/leider-kein-gewinn.html",
-            "title": "LEIDER KEIN GEWINN",
-            "summary": "Mein Bruder und ich schenken uns manchmal gegenseitig ein Los oder spielen Lotto. Wir haben die Abmachung, dass wir jeden Gewinn (ab einem bestimmtem Betrag) zusammen teilen würden. Selbstverständlich haben wir als Kinder (und manchmal auch als Erwachsene) darüber diskutiert, was wir mit viel Geld&hellip;",
-            "content_html": "<p>Mein Bruder und ich schenken uns manchmal gegenseitig ein Los oder spielen Lotto. Wir haben die Abmachung, dass wir jeden Gewinn (ab einem bestimmtem Betrag) zusammen teilen würden. Selbstverständlich haben wir als Kinder (und manchmal auch als Erwachsene) darüber diskutiert, was wir mit viel Geld denn alles anstellen würden. Mit dem \"Leider kein Gewinn\" Zettel wird man aprupt aus der ausgemalten Zukunftsvision gerissen. Wir glauben nicht ernsthaft daran, jemals etwas zu gewinnen. Sich für einen Moment eine alternative Route für die Realität auszumalen und in einer Phantasiewelt herumzuschauen, bleibt aber für immer ein schönes Gefühl, für immer zugänglich.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://kunstmanu.ch/media/posts/79/IMG_6768-2.jpeg\" alt=\"\" width=\"350\" height=\"467\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://kunstmanu.ch/media/posts/79/responsive/IMG_6768-2-xs.jpeg 640w ,https://kunstmanu.ch/media/posts/79/responsive/IMG_6768-2-sm.jpeg 768w ,https://kunstmanu.ch/media/posts/79/responsive/IMG_6768-2-md.jpeg 1024w ,https://kunstmanu.ch/media/posts/79/responsive/IMG_6768-2-lg.jpeg 1366w ,https://kunstmanu.ch/media/posts/79/responsive/IMG_6768-2-xl.jpeg 1600w ,https://kunstmanu.ch/media/posts/79/responsive/IMG_6768-2-2xl.jpeg 1920w\"></figure>\n<p> </p>",
-            "image": "https://kunstmanu.ch/media/posts/79/IMG_6768.jpeg",
-            "author": {
-                "name": "manuela"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-10-26T10:31:41+01:00",
-            "date_modified": "2026-01-01T22:18:07+01:00"
         }
     ]
 }
