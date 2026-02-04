@@ -10,19 +10,19 @@
     },
     "items": [
         {
-            "id": "https://kunstmanu.ch/jetzt-auch-noch-t-shirts.html",
-            "url": "https://kunstmanu.ch/jetzt-auch-noch-t-shirts.html",
+            "id": "https://kunstmanu.ch/jetzt-auch-noch-t-shirts-2.html",
+            "url": "https://kunstmanu.ch/jetzt-auch-noch-t-shirts-2.html",
             "title": "JETZT AUCH NOCH T-SHIRTS",
             "summary": "Weitere Druckversuche. Es gefällt mir gut.",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"4\">\n<figure class=\"gallery__item\"><a href=\"https://kunstmanu.ch/media/posts/96/gallery/IMG_0478.jpeg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://kunstmanu.ch/media/posts/96/gallery/IMG_0478-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://kunstmanu.ch/media/posts/96/gallery/1F3A3210.jpeg\" data-size=\"8192x5464\"><img loading=\"lazy\" src=\"https://kunstmanu.ch/media/posts/96/gallery/1F3A3210-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"480\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://kunstmanu.ch/media/posts/96/gallery/1F3A3228.jpeg\" data-size=\"8192x5464\"><img loading=\"lazy\" src=\"https://kunstmanu.ch/media/posts/96/gallery/1F3A3228-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"480\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://kunstmanu.ch/media/posts/96/gallery/IMG_0483.jpeg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://kunstmanu.ch/media/posts/96/gallery/IMG_0483-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n</div></div>\n<p>Weitere Druckversuche. Es gefällt mir gut.</p>",
-            "image": "https://kunstmanu.ch/media/posts/96/IMG_0483.jpeg",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"4\">\n<figure class=\"gallery__item\"><a href=\"file:///Users/manuelazahnd/Documents/Publii/sites/kunstmanu/input/media/posts/96/gallery/IMG_0478.jpeg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"file:///Users/manuelazahnd/Documents/Publii/sites/kunstmanu/input/media/posts/96/gallery/IMG_0478-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"file:///Users/manuelazahnd/Documents/Publii/sites/kunstmanu/input/media/posts/96/gallery/1F3A3210.jpeg\" data-size=\"8192x5464\"><img loading=\"lazy\" src=\"file:///Users/manuelazahnd/Documents/Publii/sites/kunstmanu/input/media/posts/96/gallery/1F3A3210-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"480\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"file:///Users/manuelazahnd/Documents/Publii/sites/kunstmanu/input/media/posts/96/gallery/1F3A3228.jpeg\" data-size=\"8192x5464\"><img loading=\"lazy\" src=\"file:///Users/manuelazahnd/Documents/Publii/sites/kunstmanu/input/media/posts/96/gallery/1F3A3228-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"480\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"file:///Users/manuelazahnd/Documents/Publii/sites/kunstmanu/input/media/posts/96/gallery/IMG_0483.jpeg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"file:///Users/manuelazahnd/Documents/Publii/sites/kunstmanu/input/media/posts/96/gallery/IMG_0483-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n</div></div>\n<p>Weitere Druckversuche. Es gefällt mir gut.</p>",
+            "image": "https://kunstmanu.ch/media/posts/98/1F3A3228.jpeg",
             "author": {
                 "name": "manuela"
             },
             "tags": [
             ],
-            "date_published": "2026-02-04T11:23:00+01:00",
-            "date_modified": "2026-02-04T11:23:17+01:00"
+            "date_published": "2026-02-04T11:37:18+01:00",
+            "date_modified": "2026-02-04T11:37:59+01:00"
         },
         {
             "id": "https://kunstmanu.ch/kamera.html",
@@ -36,8 +36,8 @@
             },
             "tags": [
             ],
-            "date_published": "2026-02-04T09:00:00+01:00",
-            "date_modified": "2026-02-04T11:36:47+01:00"
+            "date_published": "2026-02-04T11:00:00+01:00",
+            "date_modified": "2026-02-04T11:37:29+01:00"
         },
         {
             "id": "https://kunstmanu.ch/ich-habe-meinen-ersten-jutebeutel-gesiebdruckt-das-ergebnis-ist-kunst.html",
